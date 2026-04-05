@@ -1,0 +1,15 @@
+{
+	"id": "d4a322cb-5d4e-43c5-8a06-f16c0bbe9712",
+	"values": [
+		{
+			"key": "base_Url",
+			"value": "https://simple-books-api.",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "SampleWorkspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-04-04T18:14:55.163Z",
+	"_postman_exported_using": "Postman/12.4.6"
+}
